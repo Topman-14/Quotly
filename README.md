@@ -1,1 +1,1 @@
-# QuoteDeck
+# Quotly
